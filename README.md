@@ -1,6 +1,8 @@
 # Redshift to Snowflake Tableau migrator
 
-In this project I recycled a python script given by another team from my company in order to speed up the process of migrating the current dashboards and datasources in our client's Tableau Server from Redshift datasources to Snowflake: 
+In this project I recycled a python script given by another team from my company in order to speed up the process of migrating the current dashboards and datasources in our client's Tableau Server from Redshift datasources to Snowflake:
+
+
 
 The process of changing each data source from Redshift to Snowflake is time consuming. Additionally when you do this manually you will encounter different types of issues due to Snowflake column uppercase naming logic. Due to this, additional actions will need to be taken like:
 

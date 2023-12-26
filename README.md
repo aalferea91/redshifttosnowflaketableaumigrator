@@ -2,7 +2,9 @@
 
 In this project I recycled a python script given by another team from my company in order to speed up the process of migrating the current dashboards and datasources in our client's Tableau Server from Redshift datasources to Snowflake:
 
+https://github.com/aalferea91/redshifttosnowflaketableaumigrator/blob/main/tableau_snowflake_migrator_datasource.py
 
+https://github.com/aalferea91/redshifttosnowflaketableaumigrator/blob/main/tableau_snowflake_migrator_original.py
 
 The process of changing each data source from Redshift to Snowflake is time consuming. Additionally when you do this manually you will encounter different types of issues due to Snowflake column uppercase naming logic. Due to this, additional actions will need to be taken like:
 

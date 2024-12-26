@@ -1,3 +1,10 @@
+---
+title: "redshifttosnowflaketableaumigrator"
+type: "project"
+tags: python, Tableau, Goodyear
+
+---
+
 # Redshift to Snowflake Tableau migrator
 
 In this project I recycled a python script given by another team from my company in order to speed up the process of migrating the current dashboards and datasources in our client's Tableau Server from Redshift datasources to Snowflake:
